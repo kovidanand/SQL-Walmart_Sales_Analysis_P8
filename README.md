@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Analysis – SQL Business Intelligence Project  
+#  Walmart Sales Analysis – SQL Business Intelligence Project  
 ![image](https://github.com/kovidanand/Walmart_Analysis_P8/blob/main/logo.png)
 
 ---
