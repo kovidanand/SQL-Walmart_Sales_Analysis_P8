@@ -1,5 +1,4 @@
 #  Walmart Sales Analysis – SQL Business Intelligence Project  
----
 
 ## Overview
 
